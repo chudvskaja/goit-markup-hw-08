@@ -696,6 +696,12 @@ ul {
   text-transform: uppercase;
 }
 
+@media screen and (max-width: 767px) {
+  .features h3 {
+    text-align: center;
+  }
+}
+
 .features p {
   margin-top: 0;
   margin-bottom: 0;
